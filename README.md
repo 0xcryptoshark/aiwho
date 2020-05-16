@@ -1,4 +1,4 @@
-# aiwho
+# AI WHO
 Who's Who in Artificial Intelligence and Machine Learning
 
 ## Natural Language Processing (NLP)
